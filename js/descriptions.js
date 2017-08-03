@@ -357,7 +357,7 @@ var descriptions = [
     },
     {
         parameter: 'cd86',
-        description: 'Accessory Type - Product-Level Scope'
+        description: 'Email subscriber - Accessory Type (Product-Level Scope)'
     },
     {
         parameter: 'cd87',
